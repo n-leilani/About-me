@@ -1,0 +1,13 @@
+img{ width: 50%; 
+    height:50%;
+border: 3px dashed floralwhite;}
+body{ background-color: rgb(255, 227, 236);}
+.group1{ background-color: rgb(195, 231, 195);
+border: 3px solid floralwhite; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif}
+.group2{background-color:floralwhite ;
+border: 3px solid rgb(195, 231, 195); padding-top: 5%; padding-left: 3%; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+button{ background-color: floralwhite; border: 3px dashed rgb(195, 231, 195); width: 200px; height: 100px; font-family:'Courier New', Courier, monospace; font-size: x-large;}
+h1{ background-color: floralwhite; width: 50%; font-size: x-large; font-family: 'Courier New', Courier, monospace; color: rgb(195, 231, 195);}
+h2{ background-color:floralwhite; width: 50%; font-size: larger; font-family: 'Courier New', Courier, monospace; color: rgb(195, 231, 195)}
+h3{ background-color: floralwhite; width: 50%; font-size: large; font-family: 'Courier New', Courier, monospace; color: rgb(195, 231, 195); }
+h4{ background-color: rgb(195, 231, 195); width: 50%;font-family:'Courier New', Courier, monospace; font-size: larger; color: floralwhite}
